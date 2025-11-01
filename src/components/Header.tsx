@@ -33,7 +33,7 @@ const Header: React.FC<HeaderProps> = ({ toggleMenu }) => {
         >
           <Code className="text-indigo-400" size={32} />
           <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-purple-500">
-            DevPortfolio
+            shanDran
           </span>
         </motion.div>
 

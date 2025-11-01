@@ -10,7 +10,7 @@ const Education = () => {
 
   const educationData = [
     {
-      year: "2022 - Present",
+      year: "2024 - Present",
       degree: "Bachelor's in Computer Science",
       institution: "Doon University",
       description: "Currently pursuing a comprehensive Computer Science degree with focus on software development, algorithms, and modern web technologies."

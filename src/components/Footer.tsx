@@ -12,7 +12,7 @@ const Footer = () => {
             whileHover={{ scale: 1.05 }}
           >
             <Code className="text-indigo-400" size={24} />
-            <span className="text-lg font-bold">DevPortfolio</span>
+            <span className="text-lg font-bold">shanDran</span>
           </motion.div>
           
           <motion.p 
