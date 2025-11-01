@@ -54,7 +54,7 @@ const Header: React.FC<HeaderProps> = ({ toggleMenu }) => {
         {/* Social Links - Desktop */}
         <div className="hidden md:flex space-x-4">
           <motion.a
-            href="https://github.com"
+            href="https://github.com/chandranshB"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-white transition-colors"
@@ -63,7 +63,7 @@ const Header: React.FC<HeaderProps> = ({ toggleMenu }) => {
             <Github size={24} />
           </motion.a>
           <motion.a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/chandranshbinjola"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-white transition-colors"

@@ -25,8 +25,8 @@ const Contact = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}
           >
-            I'm currently open to new opportunities and interesting projects. 
-            Feel free to reach out if you want to collaborate or just say hello!
+            I'm actively seeking freelance opportunities and exciting projects.
+            Whether you need a website, have a project in mind, or just want to connect, I'd love to hear from you!
           </motion.p>
 
           <motion.div 
@@ -37,7 +37,7 @@ const Contact = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
           >
             <motion.a
-              href="mailto:alex@example.com"
+              href="mailto:chandranshbinjola@outlook.com"
               className="flex items-center justify-center bg-gray-800 hover:bg-indigo-600 text-white px-6 py-4 rounded-lg transition-colors duration-300"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
@@ -46,7 +46,7 @@ const Contact = () => {
               Email Me
             </motion.a>
             <motion.a
-              href="https://github.com"
+              href="https://github.com/chandranshB"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center bg-gray-800 hover:bg-indigo-600 text-white px-6 py-4 rounded-lg transition-colors duration-300"
@@ -57,7 +57,7 @@ const Contact = () => {
               GitHub
             </motion.a>
             <motion.a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/chandranshbinjola"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center bg-gray-800 hover:bg-indigo-600 text-white px-6 py-4 rounded-lg transition-colors duration-300"
@@ -77,7 +77,7 @@ const Contact = () => {
             transition={{ duration: 0.6, delay: 0.4 }}
           >
             <p className="text-gray-400">
-              Based in San Francisco, California • Available for remote work worldwide
+              Based in India • Available for remote work worldwide
             </p>
           </motion.div>
         </div>

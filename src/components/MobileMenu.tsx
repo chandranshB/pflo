@@ -53,14 +53,14 @@ const MobileMenu: React.FC<MobileMenuProps> = ({ isOpen, closeMenu }) => {
               
               <div className="flex justify-center space-x-6 pt-4 border-t border-gray-800">
                 <a
-                  href="mailto:alex@example.com"
+                  href="mailto:chandranshbinjola@outlook.com"
                   className="p-3 bg-gray-800 rounded-full hover:bg-indigo-600 transition-colors"
                   aria-label="Email"
                 >
                   <Mail size={20} />
                 </a>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/chandranshB"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-gray-800 rounded-full hover:bg-indigo-600 transition-colors"
@@ -69,7 +69,7 @@ const MobileMenu: React.FC<MobileMenuProps> = ({ isOpen, closeMenu }) => {
                   <Github size={20} />
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/chandranshbinjola"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-gray-800 rounded-full hover:bg-indigo-600 transition-colors"

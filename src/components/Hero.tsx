@@ -19,7 +19,7 @@ const Hero = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.2, duration: 0.8 }}
             >
-              Hi, I'm <span className="text-indigo-400">Alex Morgan</span>
+              Hi, I'm <span className="text-indigo-400">Chandransh Binjola</span>
             </motion.h1>
             <motion.h2 
               className="text-2xl md:text-4xl font-semibold text-gray-300 mb-6"
@@ -27,7 +27,7 @@ const Hero = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.4, duration: 0.8 }}
             >
-              Full Stack Developer
+              Full Stack Developer & Freelancer
             </motion.h2>
             <motion.p 
               className="text-lg text-gray-400 mb-8 max-w-lg"
@@ -35,8 +35,7 @@ const Hero = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.6, duration: 0.8 }}
             >
-              I build exceptional digital experiences that are fast, accessible, visually appealing, and responsive. 
-              Even if you don't hire me, these qualities make your product better.
+              Currently pursuing my Bachelor's in Computer Science while crafting exceptional web experiences for clients worldwide. I specialize in building modern, responsive websites that drive business results and user engagement.
             </motion.p>
             <motion.div 
               className="flex flex-wrap gap-4"
@@ -45,7 +44,7 @@ const Hero = () => {
               transition={{ delay: 0.8, duration: 0.8 }}
             >
               <motion.a
-                href="mailto:alex@example.com"
+                href="mailto:chandranshbinjola@outlook.com"
                 className="flex items-center bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-3 rounded-lg transition-colors duration-300"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
@@ -54,7 +53,7 @@ const Hero = () => {
                 Contact Me
               </motion.a>
               <motion.a
-                href="https://github.com"
+                href="https://github.com/chandranshB"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center border border-gray-600 hover:border-indigo-500 text-white px-6 py-3 rounded-lg transition-colors duration-300"
@@ -82,7 +81,7 @@ const Hero = () => {
                 />
               </div>
               <div className="absolute -bottom-4 -right-4 bg-indigo-600 text-white px-4 py-2 rounded-lg shadow-lg">
-                <p className="font-semibold">5+ Years Experience</p>
+                <p className="font-semibold">Freelancer & Student</p>
               </div>
             </div>
           </motion.div>

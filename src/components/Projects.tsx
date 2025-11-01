@@ -4,25 +4,18 @@ import { motion } from 'framer-motion'
 const Projects = () => {
   const projects = [
     {
-      title: "E-Commerce Platform",
-      description: "A full-featured online shopping platform with payment integration, inventory management, and analytics dashboard.",
-      image: "https://images.pexels.com/photos/326502/pexels-photo-326502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-      technologies: ["React", "Node.js", "MongoDB", "Stripe"],
-      link: "#"
+      title: "Seeta Narayan Travels",
+      description: "Designed and built a sleek, user-friendly website for a travel agency offering bus ticket bookings and tour services, emphasizing mobile responsiveness and intuitive navigation.",
+      image: "https://images.pexels.com/photos/1008155/pexels-photo-1008155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      technologies: ["React", "Vite", "Tailwind CSS", "Node.js"],
+      link: "https://seetanarayantravels.in"
     },
     {
-      title: "Task Management App",
-      description: "A collaborative task management solution with real-time updates, team features, and progress tracking.",
-      image: "https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-      technologies: ["Vue.js", "Firebase", "Tailwind CSS"],
-      link: "#"
-    },
-    {
-      title: "Health & Fitness Tracker",
-      description: "Mobile application for tracking workouts, nutrition, and health metrics with personalized recommendations.",
-      image: "https://images.pexels.com/photos/4386460/pexels-photo-4386460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-      technologies: ["React Native", "Express", "PostgreSQL"],
-      link: "#"
+      title: "Spectra GeoSolutions LLP",
+      description: "Developed a responsive corporate website for a geospatial technology firm specializing in LiDAR, UAV mapping, and 3D scanning. Focused on professional design, clarity, and lead generation.",
+      image: "https://images.pexels.com/photos/1117210/pexels-photo-1117210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      technologies: ["React", "Vite", "Tailwind CSS", "Node.js"],
+      link: "https://spectrageosolutions.com"
     }
   ]
 

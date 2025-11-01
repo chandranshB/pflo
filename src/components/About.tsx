@@ -26,18 +26,18 @@ const About = () => {
           >
             <h3 className="text-2xl font-semibold mb-4">Who I Am</h3>
             <p className="text-gray-300 mb-6">
-              I'm a passionate full-stack developer with expertise in creating modern web applications. 
-              With a strong foundation in both frontend and backend technologies, I bring ideas to life 
-              through clean, efficient code and intuitive user experiences.
+              I'm a dedicated Computer Science student at Doon University and a passionate freelance developer
+              who transforms ideas into pixel-perfect reality. With a strong focus on modern web technologies,
+              I create responsive, high-performance websites that help businesses establish their digital presence.
             </p>
             <p className="text-gray-300 mb-6">
-              My journey in tech began 5 years ago, and since then I've worked with startups and 
-              established companies to deliver high-quality digital solutions. I specialize in 
-              JavaScript ecosystems, cloud technologies, and modern development practices.
+              As a freelancer, I've had the privilege of working with diverse clients, from travel agencies to
+              geospatial technology firms, delivering tailored solutions that exceed expectations. I pride myself
+              on clean code, attention to detail, and meeting deadlines without compromising quality.
             </p>
             <p className="text-gray-300">
-              When I'm not coding, you can find me exploring new technologies, contributing to open-source 
-              projects, or sharing knowledge with the developer community.
+              When I'm not coding, you'll find me staying up-to-date with the latest web development trends,
+              refining my skills, and seeking new challenges that push my boundaries as a developer.
             </p>
           </motion.div>
 
@@ -49,9 +49,9 @@ const About = () => {
             transition={{ duration: 0.6, delay: 0.4 }}
           >
             {[
-              { value: '50+', label: 'Projects Completed' },
-              { value: '5+', label: 'Years Experience' },
-              { value: '30+', label: 'Happy Clients' },
+              { value: '10+', label: 'Projects Completed' },
+              { value: 'Student', label: 'CS at Doon University' },
+              { value: 'Active', label: 'Freelancer' },
               { value: '15+', label: 'Technologies' }
             ].map((stat, index) => (
               <motion.div 

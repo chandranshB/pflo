@@ -21,7 +21,7 @@ const Footer = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.3 }}
           >
-            © {new Date().getFullYear()} Alex Morgan. All rights reserved.
+            © {new Date().getFullYear()} Chandransh Binjola. All rights reserved.
           </motion.p>
           
           <motion.div 
