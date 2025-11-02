@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react'
-import { Menu, X, Code, Github, Linkedin } from 'lucide-react'
+import { useState, useEffect } from 'react'
+import { Menu, Code, Github, Linkedin } from 'lucide-react'
 import { motion } from 'framer-motion'
 
 interface HeaderProps {
