@@ -24,7 +24,7 @@ const Skills = () => {
     {
       title: "Database",
       icon: <Database className="text-indigo-400" size={24} />,
-      skills: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase", "Prisma"]
+      skills: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"]
     },
     {
       title: "Cloud & DevOps",
@@ -34,12 +34,12 @@ const Skills = () => {
     {
       title: "Mobile Development",
       icon: <Smartphone className="text-indigo-400" size={24} />,
-      skills: ["React Native", "Flutter", "iOS", "Android", "PWA", "Ionic"]
+      skills: ["Flutter", "iOS", "Android",]
     },
     {
       title: "Other Tools",
       icon: <Zap className="text-indigo-400" size={24} />,
-      skills: ["Git", "Jest", "Cypress", "Figma", "Jira", "Agile"]
+      skills: ["Git", "Cypress", "Figma", "Jira", "Agile"]
     }
   ]
 
